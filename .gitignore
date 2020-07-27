@@ -1,0 +1,14 @@
+# Win Binaries
+
+*.exe
+*.dll
+
+# Build files
+
+Makefile
+*.make
+obj
+
+# VSCode configs
+.VSCode
+
